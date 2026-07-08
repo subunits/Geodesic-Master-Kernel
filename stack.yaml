@@ -1,0 +1,6 @@
+resolver: lts-21.21
+packages:
+- .
+extra-deps: []
+ghc-options:
+  "$everything": -O2 -threaded
